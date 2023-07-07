@@ -11,7 +11,7 @@ while (seguir === 1) {
         <p> <strong>Debes adivinar un número aleatorio </strong>.</p>
         <p>¡Mucho cuidado! Por cada respuesta incorrecta, la radiactividad aumenta y puedes provocar la explosión nuclear de Dipli💣</p>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlzdmJhdm5ibnVlZHZ0bGRkMWozY2hhc2N6d2lncmRla2V4NjgzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlTYKN146VMyI/giphy.gif" style="width: 400px; height: 200px;" alt="Robot">
-        <p>¡MUCHA!</p>
+        <p>SUERTE!</p>
       </div>`,
     confirmButtonText: 'Comenzar',
     allowOutsideClick: false
