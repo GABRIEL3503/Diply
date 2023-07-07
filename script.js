@@ -106,7 +106,7 @@ while (seguir === 1) {
         await Swal.fire({
         title: '¡Felicitaciones!',
         text: '¡Felicitaciones, ganaste el juego! Te desafío a que lo intentes con menos vidas!',
-        imageUrl: 'https://unsplash.it/400/200',
+        imageUrl: 'https://media.giphy.com/media/plrhd7RveGGZy/giphy.gif',
         imageWidth: 400,
         imageHeight: 200,
         imageAlt: 'Felicitaciones',
