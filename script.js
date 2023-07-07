@@ -152,13 +152,14 @@ while (seguir === 1) {
 
   seguir = Number(
     await Swal.fire({
-      title: '¿Quieres jugar de nuevo?',
-      icon: 'question',
-      showCancelButton: true,
-      confirmButtonText: 'Sí',
-      cancelButtonText: 'No',
-      allowOutsideClick: false
-    }).then(result => result.value === true ? 1 : 0)
+        title: '¿Quieres jugar de nuevo?',
+        icon: 'question',
+        showCancelButton: true,
+        confirmButtonText: 'Sí',
+        cancelButtonText: 'No',
+        allowOutsideClick: false,
+        html: '<img src="https://media.giphy.com/media/woWQA2I7xqRMI/giphy.gif" alt="Imagen">',
+      }).then(result => result.value === true ? 1 : 0)
   );
 }
 }
